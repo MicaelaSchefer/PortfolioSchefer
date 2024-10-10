@@ -1,0 +1,60 @@
+nav{
+    background-color:#aca992;
+    
+}
+
+body{
+    background-color:#aca992 ;
+}
+
+
+
+section{
+    padding-top: 20px;
+     gap:20px;
+    
+}
+
+.colorcard{
+    
+    width:20rem;
+    border-radius: 50px;
+    padding-bottom:20px;
+}
+
+.texto{
+   
+    border-radius: 10% 30% 50% 70%;
+    width: 20rem;
+    height: 20rem ; 
+    
+    
+    
+}
+
+.maindiv{
+    background-color: #cbc8ab;
+    border-radius: 10% 30% 50% 90%;
+}
+
+.asidebody{
+    padding-top:80px ;
+    text-align: center;
+    background-color: #cbc8ab;
+    border-radius: 45% 40% / 10% 40%;
+    width: 70rem;
+    height: 22rem 
+}
+
+.sectionproy{
+    border-radius: 10% 30% 50% 70%;
+    background-color: #cbc8ab;
+    padding:90px;
+    
+}
+.sectionbody{
+    border-radius: 10% 30% 50% 70%;
+    background-color: #cbc8ab;
+    padding:90px;
+    
+}
